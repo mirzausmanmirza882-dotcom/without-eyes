@@ -1,3 +1,4 @@
+
 // Voice function
 function speak(text) {
   const msg = new SpeechSynthesisUtterance(text);
@@ -58,4 +59,3 @@ arabicLetters.forEach(letter => {
 const micBtn = document.getElementById("micBtn");
 micBtn.addEventListener("click", () => {
   speak("Microphone activated. Voice commands not yet implemented.");
-});
