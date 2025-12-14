@@ -58,4 +58,5 @@ arabicLetters.forEach(letter => {
 // Microphone placeholder
 const micBtn = document.getElementById("micBtn");
 micBtn.addEventListener("click", () => {
-  speak("Microphone activated. Voice commands not yet implemented.");
+  speak("Microphone activated. Voice commands not yet implemented.");                                                                                                                                     
+https://via.placeholder.com/50?text=ے
